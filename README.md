@@ -1,4 +1,6 @@
 # Repositorio común de Becarios Cloud SPGI - IBM
+![code engine use cases](https://img.shields.io/badge/code--engine-1-blue)
+![functions use cases](https://img.shields.io/badge/functions-1-008080)
 
 ## Participantes
 - Carlota Delso
