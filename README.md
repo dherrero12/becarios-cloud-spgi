@@ -18,5 +18,5 @@
 Repositorio en común de scripts y código realizado para solucionar Use Cases planteados por el resto de miembros del departamento. 
 
 ## Tecnologías
-- [Code Engine](./code-engine)
-- [Functions](./functions)
+- [Code Engine](./Code-Engine)
+- [Functions](./Functions)
