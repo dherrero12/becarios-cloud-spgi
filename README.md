@@ -1,8 +1,14 @@
-# Repositorio común de Becarios Cloud SPGI - IBM
-![code engine use cases](https://img.shields.io/badge/code--engine-1-blue)
-![functions use cases](https://img.shields.io/badge/functions-1-008080)
+<div align="center">
 
-## Participantes
+![image](https://user-images.githubusercontent.com/102157561/159959457-aa5d93fa-74ef-45e6-9090-51b345405ee0.png)
+
+# Repositorio común de Becarios Cloud SPGI - IBM
+
+![code engine use cases](https://img.shields.io/badge/code--engine-1-1098DA)
+![functions use cases](https://img.shields.io/badge/functions-1-7CCCC0)
+ </div>
+ 
+## Becarios
 - Carlota Delso
 - Diego Herrero
 - Javier De La Puente
@@ -11,6 +17,6 @@
 ## Descripción
 Repositorio en común de scripts y código realizado para solucionar Use Cases planteados por el resto de miembros del departamento. 
 
-## Indice
+## Tecnologías
 - [Code Engine](./code-engine)
 - [Functions](./functions)
