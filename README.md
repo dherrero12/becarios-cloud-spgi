@@ -1,4 +1,13 @@
-# becarios-cloud-spgi
+# Repositorio común de Becarios Cloud SPGI - IBM
 
-Karina va a hacer un master
-Y Diego también
+## Participantes
+- Carlota Delso
+- Diego Herrero
+- Javier De La Puente
+- Karina López
+
+## Descripción
+Repositorio en común de scripts y código realizado para solucionar Use Cases planteados por el resto de miembros del departamento. 
+
+## Indice
+
