@@ -11,7 +11,7 @@
 ## Becarios
 - Carlota Delso
 - Diego Herrero
-- Javier De La Puente
+- Javier de la Puente
 - Karina López
 
 ## Descripción
