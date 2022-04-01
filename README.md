@@ -25,4 +25,4 @@ Repositorio en común de scripts y código realizado para solucionar Use Cases p
 
 
 ## Talleres
-- ![Taller de Openshift](https://github.com/luisreyesoliva/taller-openshift)
+- [Taller de Openshift](https://github.com/luisreyesoliva/taller-openshift)
