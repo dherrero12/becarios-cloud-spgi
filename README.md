@@ -6,6 +6,8 @@
 
 ![code engine use cases](https://img.shields.io/badge/code--engine-1-1098DA)
 ![functions use cases](https://img.shields.io/badge/functions-1-7CCCC0)
+![Openshift](https://img.shields.io/badge/Openshift--on--IBM--Cloud-1-red)
+![IBM Watson](https://img.shields.io/badge/IBM--Watson-1-blue)
  </div>
  
 ## Becarios
@@ -20,3 +22,7 @@ Repositorio en común de scripts y código realizado para solucionar Use Cases p
 ## Tecnologías
 - [Code Engine](./Code-Engine)
 - [Functions](./Functions)
+
+
+## Talleres
+- ![Taller de Openshift](https://github.com/luisreyesoliva/taller-openshift)
